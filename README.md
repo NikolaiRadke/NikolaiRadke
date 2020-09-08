@@ -3,9 +3,9 @@
                                                                                    
 ## There shall be three monsters!
   
-* **Noko** 
+* **Noko**   
   The big one. A real challenge, even for Dr. Frankenstein.
-* **Nokolino** 
+* **Nokolino**   
   The small litte brother, cheeky and quick to build for almost everyone.
-* **Nokolino32** 
+* **Nokolino32**   
   The future of monster making! Wifi! Dual core! Coming soon...  
