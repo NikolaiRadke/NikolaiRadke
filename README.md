@@ -8,6 +8,6 @@
 * **Nokolino**   
   The small litte brother, cheeky and quick to build for almost everyone.
 * **Nokolino32**   
-  The future of monster making! Wifi! Dual core! Coming soon...   
+  The future of monster making! Wifi! Dual core! Coming... in the future.  
     
  *Build monsters! Think of your friends too...*
