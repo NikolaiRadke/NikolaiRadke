@@ -7,9 +7,9 @@
   The big one. A real challenge, even for Dr. Frankenstein.
 * **Nokolino**   
   The small litte brother, cheeky and quick to build for almost everyone.
-* **Nokolino32**   
-  The future of monster making! Wifi! Dual core! Coming... in the future.
 * **Schimpfolino**  
   A german curse word generator, small, handy, almost useless, but fun!
+* **Nokolino32**   
+  The future of monster making! Wifi! Dual core! Coming... in the future.
     
  *Build monsters! Think of your friends too...*
