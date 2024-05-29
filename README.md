@@ -8,7 +8,7 @@
 * **Nokolino**   
   The small litte brother, cheeky and quick to build for almost everyone.
 * **Schimpfolino**  
-  A german curse word generator, small, handy, almost useless, but fun!
+  A curse word generator in German, small, handy, almost useless, but fun!
 * **Nokolino32**   
   The future of monster making! Wifi! Dual core! Coming... in the future.
     
