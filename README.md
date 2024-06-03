@@ -7,6 +7,8 @@
   The big one. A real challenge, even for Dr. Frankenstein.
 * **Nokolino**   
   The small litte brother, cheeky and quick to build for almost everyone.
+* **Cheapolino**
+  The easy-to-bild budget version of Nokolino with advanced power saving.  
 * **Schimpfolino**  
   A curse word generator in German, small, handy, almost useless, but fun!
 * **Nokolino32**   
