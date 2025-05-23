@@ -11,7 +11,7 @@
   The easy-to-build budget version of Nokolino with advanced power saving.  
 * **Schimpfolino**  
   A curse word generator in German, small, handy, almost useless, but fun!
-* **Nokolino32**   
-  The future of monster making! Wifi! Dual core! Coming... in the future.
-    
+* **Stopify**
+  A noise analysis tool. Pauses Spotify when it gets noisy.
+      
  *Build monsters! Think of your friends too...*
