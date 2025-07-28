@@ -11,6 +11,9 @@
   The easy-to-build budget version of Nokolino with advanced power saving.  
 * **Schimpfolino**  
   A curse word generator in German, small, handy, almost useless, but fun!
+
+### And other stuff!
+
 * **Stopify**  
   A noise analysis tool. Pauses Spotify when it gets noisy.
 * **AI.duino**  
