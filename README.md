@@ -13,7 +13,7 @@
   A curse word generator in German, small, handy, almost useless, but fun!
 * **Stopify**  
   A noise analysis tool. Pauses Spotify when it gets noisy.
-* **AI.duino**
+* **AI.duino**  
   An Arduino AI Assistent. (4A!) Enhance your IDE with Claude and/or ChatGPT.  
       
  *Build monsters! Think of your friends too...*
