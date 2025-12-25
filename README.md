@@ -18,7 +18,7 @@
   A noise analysis tool. Pauses Spotify when it gets noisy.
 * **AI.duino**  
   An Arduino AI Assistent. (4A!) Enhance your IDE with AI!
-* **Arduino+**
+* **Arduino+**  
   Essential tools for better Atrduino IDE experience.  
 * **JQ6500 rescue tool**  
   Add a graphical (english) upload interface to your JQ6500 mp3 module.  
