@@ -20,7 +20,7 @@
   An Arduino AI Assistent. (4A!) Enhance your IDE with AI!
 * **Arduino+**  
   Essential tools for better Atrduino IDE experience.
-* **Extension Manager**
+* **Extension Manager**  
   Manage your Arduino IDE 2.X extensions.  
 * **JQ6500 rescue tool**  
   Add a graphical (english) upload interface to your JQ6500 mp3 module.  
