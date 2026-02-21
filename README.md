@@ -14,7 +14,7 @@
 
 ### And other stuff!
 
-* **LibreAssist**
+* **LibreAssist**  
   A LibeOffice Extension with REAL agentic writing!
 * **AI.duino**  
   An Arduino AI Assistent. (4A!) Enhance your IDE with AI!
