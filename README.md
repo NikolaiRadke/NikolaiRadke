@@ -1,7 +1,7 @@
 ![Monstermaker](http://www.nikolairadke.de/Nokolino/monstermaker_github2.jpg)
 <img src="http://www.nikolairadke.de/Nokolino/monsterbande_github.jpg" align="right">
 
-Embedded Systems & Extension Developer · Open for remote freelance work
+Embedded Systems & Extension Developer · Open for remote freelance work.
 
 ### There shall be monsters!
   
@@ -17,7 +17,7 @@ Embedded Systems & Extension Developer · Open for remote freelance work
 ### And other stuff!
 
 * **LibreAssist**  
-  A LibeOffice Extension with REAL agentic writing!
+  A LibreOffice Extension with REAL agentic writing!
 * **AI.duino**  
   An Arduino AI Assistent. (4A!) Enhance your IDE with AI!
 * **Arduino+**  
