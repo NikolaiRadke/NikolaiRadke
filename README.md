@@ -21,7 +21,7 @@ Embedded Systems & Extension Developer · Open for remote freelance work.
 * **AI.duino**  
   An Arduino AI Assistent. (4A!) Enhance your IDE with AI!
 * **Arduino+**  
-  Essential tools for better Atrduino IDE experience.
+  Essential tools for better Arduino IDE experience.
 * **Extension Manager**  
   Manage your Arduino IDE 2.X extensions.
 * **Stopify**  
