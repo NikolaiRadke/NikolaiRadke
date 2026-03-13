@@ -1,7 +1,7 @@
 ![Monstermaker](http://www.nikolairadke.de/Nokolino/monstermaker_github2.jpg)
 <img src="http://www.nikolairadke.de/Nokolino/monsterbande_github.jpg" align="right">
 
-Embedded Systems & Extension Developer · Open for remote freelance work.
+Software Developer for Desktop and Embedded Systems · Open for remote freelance work.
 
 ### There shall be monsters!
   
