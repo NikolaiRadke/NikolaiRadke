@@ -30,5 +30,6 @@ Software Developer for Desktop and Embedded Systems · Open for remote freelance
   A noise analysis tool. Pauses Spotify when it gets noisy.
 * **JQ6500 rescue tool**  
   Add a graphical (english) upload interface to your JQ6500 mp3 module.  
-  
+
+---  
  *Build monsters! Think of your friends too...*
