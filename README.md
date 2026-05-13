@@ -17,7 +17,7 @@ Software Developer for Desktop and Embedded Systems · Open for remote freelance
 ### And other stuff!
 
 * **TinyRTOS**  
-  Multitasking for Arduino Uno/Nano and ATtiny44/45/84/85.  
+  Multitasking for 8.bit AVR MCUs (Arduino, ATtiny, etc.) 
 * **LibreAssist**  
   A LibreOffice Extension with REAL agentic writing!
 * **AI.duino**  
