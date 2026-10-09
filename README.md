@@ -18,7 +18,7 @@ Software Developer for Desktop and Embedded Systems · Open for remote freelance
 
 * **TinyRTOS**  
   Multitasking for 8-bit AVR MCUs (Arduino, ATtiny, etc.)
-* **ArduDebug**
+* **ArduDebug**  
   Native IDE debugging for Arduino UNO/Nano  
 * **LibreAssist**  
   A LibreOffice Extension with REAL agentic writing!
