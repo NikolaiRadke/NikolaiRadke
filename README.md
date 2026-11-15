@@ -3,7 +3,7 @@
 Software Developer for Desktop and Embedded Systems · Open for remote freelance work.
 
 ### 🔧 Current focus: Arduino tooling
-*A toolchain for modern Arduino development – AI assistance, agentic coding, real debugging and multitasking.*
+*A toolchain for "modern" Arduino development: AI assistance, agentic coding, real debugging and multitasking.*
 
 * **[AI.duino](https://github.com/NikolaiRadke/AI.duino)** – An Arduino AI assistant. Enhance your IDE with AI!
 * **[Agentuino](https://github.com/NikolaiRadke/Agentuino)** – Agentic coding specialist, little brother of AI.duino, connects to ArduDebug.
