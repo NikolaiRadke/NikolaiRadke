@@ -20,7 +20,7 @@ Software Developer for Desktop and Embedded Systems · Open for remote freelance
 * **[JQ6500 rescue tool](https://github.com/NikolaiRadke/JQ6500-rescue-tool)** – Graphical upload interface for your JQ6500 MP3 module.
 </details>
 
-<details>
+<details open>
 <summary><b>👾 Where it all started: There shall be monsters!</b></summary>
 
 <img src="http://www.nikolairadke.de/Nokolino/monsterbande_github.jpg" align="right" width="250">
