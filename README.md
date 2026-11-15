@@ -15,7 +15,9 @@ Software Developer for Desktop and Embedded Systems · Open for remote freelance
   A curse word generator in German, small, handy, almost useless, but fun!
 
 ### And other stuff!
-
+* **Agentuino**
+  An agentic coding specialist, the litte brother of AI.duino, but connects to ArduDebug.
+  
 * **TinyRTOS**  
   Multitasking for 8-bit AVR MCUs (Arduino, ATtiny, etc.)
 * **ArduDebug**  
