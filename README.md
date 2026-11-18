@@ -9,7 +9,7 @@ Software Developer for Desktop and Embedded Systems · Open for remote freelance
 * **[Agentuino](https://github.com/NikolaiRadke/Agentuino)** – Agentic coding specialist, little brother of AI.duino, connects to ArduDebug.
 * **[ArduDebug](https://github.com/NikolaiRadke/ArduDebug)** – Native IDE debugging for Arduino AVR boards (UNO/Nano/Leonardo/Mega/...)
 * **[TinyRTOS](https://github.com/NikolaiRadke/TinyRTOS)** – Multitasking for 8-bit AVR MCUs (Arduino, ATtiny, etc.)
-* * **[Extension Manager](https://github.com/NikolaiRadke/Extension-Manager)** – Manage your Arduino IDE 2.x extensions.
+* **[Extension Manager](https://github.com/NikolaiRadke/Extension-Manager)** – Manage your Arduino IDE 2.x extensions.
 
 <details>
 <summary><b>🧰 More tools</b></summary>
