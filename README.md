@@ -9,19 +9,19 @@ Software Developer for Desktop and Embedded Systems · Open for remote freelance
 * **[Agentuino](https://github.com/NikolaiRadke/Agentuino)** – Agentic coding specialist, little brother of AI.duino, connects to ArduDebug.
 * **[ArduDebug](https://github.com/NikolaiRadke/ArduDebug)** – Native IDE debugging for Arduino AVR boards (UNO/Nano/Leonardo/Mega/...)
 * **[TinyRTOS](https://github.com/NikolaiRadke/TinyRTOS)** – Multitasking for 8-bit AVR MCUs (Arduino, ATtiny, etc.)
+* * **[Extension Manager](https://github.com/NikolaiRadke/Extension-Manager)** – Manage your Arduino IDE 2.x extensions.
 
 <details>
 <summary><b>🧰 More tools</b></summary>
 
 * **[LibreAssist](https://github.com/NikolaiRadke/LibreAssist)** – A LibreOffice extension with REAL agentic writing!
 * **[Arduino+](https://github.com/NikolaiRadke/ArduinoPlus)** – Essential tools for a better Arduino IDE experience.
-* **[Extension Manager](https://github.com/NikolaiRadke/Extension-Manager)** – Manage your Arduino IDE 2.x extensions.
 * **[Stopify](https://github.com/NikolaiRadke/Stopify)** – Noise analysis tool. Pauses Spotify when it gets noisy.
 * **[JQ6500 rescue tool](https://github.com/NikolaiRadke/JQ6500-rescue-tool)** – Graphical upload interface for your JQ6500 MP3 module.
 </details>
 
 <details open>
-<summary><b>👾 Where it all started: There shall be monsters!</b></summary>
+<summary><b>👾 Where i started: There shall be monsters!</b></summary>
 
 <img src="http://www.nikolairadke.de/Nokolino/monsterbande_github.jpg" align="right" width="250">
 
